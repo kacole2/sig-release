@@ -36,6 +36,7 @@ aliases:
   features-role:
     - idvoretskyi
     - justaugustus
+    - kacole2
   test-infra-role:
     - krzyzacy
     - bentheelder
